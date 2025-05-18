@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_dubey_harsh" target="blank"><img src="https://img.shields.io/twitter/follow/_dubey_harsh?logo=twitter&style=for-the-badge" alt="_dubey_harsh" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **react,spring,python**
 
